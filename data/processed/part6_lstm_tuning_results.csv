@@ -1,0 +1,4 @@
+config_id,lstm_units_1,lstm_units_2,dropout,learning_rate,batch_size,epochs,best_val_loss,epochs_run
+1,32,16,0.1,0.001,32,25,0.0007355767302215099,13
+2,64,32,0.2,0.001,32,30,0.0007630839245393872,13
+3,64,32,0.3,0.0005,64,35,0.003053082153201103,13
