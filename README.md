@@ -153,7 +153,7 @@ electricity-demand-forecasting/
 │   │   ├── part4_actual_vs_predicted.png
 │   │   ├── part5_actual_vs_predicted.png
 │   │   └── part6_lstm_actual_vs_predicted.png
-│   └──
+│   └── Report_ Electricity Demand Forecasting for Germany_ A Time Series Case Study.pdf
 ├── README.md
 └── requirements.txt
 ```
