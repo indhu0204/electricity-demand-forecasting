@@ -1,0 +1,2 @@
+model,order,seasonal_order,aic,bic
+sarima,"(1, 1, 2)","(0, 1, 1, 52)",280.2415961131496,291.89526281458126
