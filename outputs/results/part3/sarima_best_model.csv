@@ -1,2 +1,0 @@
-model,order,seasonal_order,aic
-sarima,"(1, 1, 2)","(0, 1, 1, 52)",280.2415961131496
