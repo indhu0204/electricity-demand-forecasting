@@ -150,10 +150,10 @@ electricity-demand-forecasting/
 │
 ├── reports
 │   └── figures
-│       ├── part4_actual_vs_predicted.png
-│       ├── part5_actual_vs_predicted.png
-│       └── part6_lstm_actual_vs_predicted.png
-│
+│   │   ├── part4_actual_vs_predicted.png
+│   │   ├── part5_actual_vs_predicted.png
+│   │   └── part6_lstm_actual_vs_predicted.png
+│   └──
 ├── README.md
 └── requirements.txt
 ```
